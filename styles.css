@@ -1,0 +1,44 @@
+header{
+    background-color: rgb(253, 58, 149);
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+p{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(46, 32, 236);
+    text-align: center;
+}
+footer{
+    background-color: rgb(253, 58, 149);
+    text-align: center;
+}
+body{
+    background-image: url("https://i.pinimg.com/736x/ec/2f/80/ec2f802717933512809dcf6df3320934.jpg");
+    background-size: cover;
+}
+ul{
+    text-align: center;
+    color: rgb(195, 230, 0);
+}
+.curiosidade{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+.informa{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+.site{
+    color:cyan;
+}
+.texto{
+    font-size: 20px;
+}
